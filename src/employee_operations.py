@@ -10,8 +10,8 @@ def add_employee():
 
     This function prompts the user to input details for a new employee and adds the employee
     to the system.
-
     """
+    pass
 
 def delete_employee():
     """
